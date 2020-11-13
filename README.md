@@ -1,4 +1,4 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=tokyonight&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yarmmak&theme=tokyonight&show_icons=true)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yarmmak&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
