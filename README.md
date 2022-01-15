@@ -1,6 +1,4 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yarmmak&theme=tokyonight&show_icons=true&count_private=true)
 
-<!--[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sevenTsoft&repo=DiscMath&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
 <!--
